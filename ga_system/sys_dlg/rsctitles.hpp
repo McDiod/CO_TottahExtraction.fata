@@ -1,6 +1,8 @@
 class RscTitles
 {
 
+    #include "..\..\node_modules\grad-fortifications\dialog\hint\title.hpp"
+
       class ShowPhone
       {
         idd = -1;

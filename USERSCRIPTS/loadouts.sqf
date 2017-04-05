@@ -1,4 +1,4 @@
-_loadoutFactionBlu = "BWFleck";                                                 //Partei, dessen Standardloadout die Bluforspieler bekommen
+_loadoutFactionBlu = "UsOCP";                                                 //Partei, dessen Standardloadout die Bluforspieler bekommen
 _loadoutFactionOpf = "";                                                        //Partei, dessen Standardloadout die Opforspieler bekommen
 _loadoutFactionInd = "";                                                        //Partei, dessen Standardloadout die Independentspieler bekommen
                                                                                 //Wenn _loadoutFactionXXX == "" werden keine Loadouts verteilt und Missionsersteller kann eigene Loadouts über den Editor vergeben (Achtung: nicht respawnsicher).

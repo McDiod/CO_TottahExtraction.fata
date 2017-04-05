@@ -18,6 +18,8 @@ class Loadouts {
     };
 };
 
+#include "node_modules\grad-fortifications\grad_fortifications.hpp"
+
 //Functions
 class CfgFunctions
 {
@@ -38,6 +40,8 @@ class CfgFunctions
     #include "f3cache\cfgFunctions.hpp"
     #include "node_modules\grad-loadout\cfgFunctions.hpp"
     #include "node_modules\grad-customGear\cfgFunctions.hpp"
+    #include "node_modules\grad-fortifications\cfgFunctions.hpp"
+
 };
 
 //Extendend EventHandlers
