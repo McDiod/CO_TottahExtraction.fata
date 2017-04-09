@@ -22,5 +22,11 @@
 
 //hier Einstellungen eintragen:
 [
-
+    ["Zug",1,1],
+    ["Alpha",3,1],
+    ["Alpha 1",4,1],
+    ["Alpha 2",5,1],
+    ["Bravo",6,1],
+    ["Bravo 1",7,1],
+    ["Bravo 2",8,1]
 ]
