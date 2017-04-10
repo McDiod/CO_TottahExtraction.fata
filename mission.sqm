@@ -16,14 +16,14 @@ class EditorData
 	};
 	class LayerIndexProvider
 	{
-		nextID=112;
+		nextID=124;
 	};
 	class Camera
 	{
-		pos[]={2215.5532,73.326836,232.1871};
-		dir[]={-0.50504607,-0.76634568,0.3972601};
-		up[]={-0.60240513,0.6423341,0.47384432};
-		aside[]={0.61828959,-1.837383e-006,0.78604776};
+		pos[]={2181.2688,65.134483,189.38522};
+		dir[]={0.019886691,-0.56253123,0.82664442};
+		up[]={0.013535366,0.8266806,0.56251991};
+		aside[]={0.99979001,-1.4958496e-006,-0.024050869};
 	};
 };
 binarizationWanted=0;
@@ -8276,7 +8276,7 @@ class Mission
 							class PositionInfo
 							{
 								position[]={2159.8347,20.106037,248.83105};
-								angles[]={-0,0.059528694,0};
+								angles[]={0,0.059528694,0};
 							};
 							side="West";
 							flags=4;
@@ -14689,7 +14689,7 @@ class Mission
 			fillName="DiagGrid";
 			a=114.037;
 			b=27.927;
-			angle=223.50574;
+			angle=223.50572;
 			id=1316;
 			atlOffset=-38.93766;
 		};
@@ -16601,11 +16601,11 @@ class Mission
 	{
 		class LinkIDProvider
 		{
-			nextID=186;
+			nextID=190;
 		};
 		class Links
 		{
-			items=186;
+			items=190;
 			class Item0
 			{
 				linkID=0;
@@ -18461,6 +18461,46 @@ class Mission
 				linkID=185;
 				item0=750;
 				item1=1304;
+				class CustomData
+				{
+					type="Sync";
+				};
+			};
+			class Item186
+			{
+				linkID=186;
+				item0=1475;
+				item1=178;
+				class CustomData
+				{
+					type="Sync";
+				};
+			};
+			class Item187
+			{
+				linkID=187;
+				item0=1473;
+				item1=178;
+				class CustomData
+				{
+					type="Sync";
+				};
+			};
+			class Item188
+			{
+				linkID=188;
+				item0=1469;
+				item1=178;
+				class CustomData
+				{
+					type="Sync";
+				};
+			};
+			class Item189
+			{
+				linkID=189;
+				item0=1471;
+				item1=178;
 				class CustomData
 				{
 					type="Sync";
